@@ -1,0 +1,13 @@
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.exe
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.deps.json
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.json
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.dev.json
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csprojAssemblyReference.cache
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfo.cs
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\marci\Desktop\Informatyka WSB\Algorytmy i Struktury Danych\Lab 7\zadanie domowe\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.genruntimeconfig.cache
